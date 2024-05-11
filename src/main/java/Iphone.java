@@ -22,26 +22,26 @@ public class Iphone implements ReprodutorMusical, AparelhoTelefonico, NavegadorI
 
     @Override
     public void adicionarNovaAba() {
-        System.out.println("Abrir nova aba...");
+        System.out.println("Abrir nova aba...  ");
     }
 
     @Override
     public void atualizarPagina() {
-        System.out.println("Atualizar página...");
+        System.out.println("Atualizar página...  ");
     }
 
     @Override
     public void tocar() {
-        System.out.println("Tocar música...");
+        System.out.println("Tocar música...  ");
     }
 
     @Override
     public void pausar() {
-        System.out.println("Pausar música...");
+        System.out.println("Pausar música...  ");
     }
 
     @Override
     public void selecionarMusica() {
-        System.out.println("Selecionar música...");
+        System.out.println("Selecionar música...  ");
     }
 }
